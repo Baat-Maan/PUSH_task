@@ -20,8 +20,8 @@ Implementation Contract Address: [0x5835E12E9b0E07699e51bcef5CDbBAc27aaf8113](ht
 > https://github.com/ethereum-push-notification-service/push-smart-contracts/blob/04dc260edf915aa1e81fa8e27d205bba9beb318d/contracts/EPNSCoreV1.sol
 
 1. Old version of Solidity is used. Newer version could provide the following advantages:
- - No requirement of Safemath library, hence lower gas usage
- - Ability to use custom errors
+  - No requirement of Safemath library, hence lower gas usage
+  - Ability to use custom errors
  
 2. `++i` could be used in for loop instead of `i++` to save gas
 
