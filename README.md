@@ -11,7 +11,9 @@
 > And lastly, the smart contract should also include a feature to emit out on-chain notifications using Push Communicator Contract on the Goerli testnet.
 
 Contract: Fund.sol
+
 Proxy Address: [0x30379012Eba9ae49a26524Ad86AD6315C5198774](https://goerli.etherscan.io/address/0x30379012Eba9ae49a26524Ad86AD6315C5198774)
+
 Implementation Contract Address: [0x5835E12E9b0E07699e51bcef5CDbBAc27aaf8113](https://goerli.etherscan.io/address/0x5835e12e9b0e07699e51bcef5cdbbac27aaf8113#code)
 
 
